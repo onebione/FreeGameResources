@@ -1,5 +1,5 @@
 # FreeGameResources
-resources to help minimize game development cost
+Resources to help minimize game development cost
 
 We are just going to list a bunch of resources here to help indie game devs make a game and test it out in the market for minimal cost. 
 Since most of all games will fail, we want to avoid spending much for each game. 
