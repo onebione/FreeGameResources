@@ -14,3 +14,5 @@ Unity Particle Pack, 2018 https://assetstore.unity.com/packages/essentials/asset
 
 Sample Unity endless runner github: https://github.com/BlackthornProd/EndlessRunnerSeries/tree/master/EndlessRunnerYoutube, 2018
 
+YouTube for promoting trailer and community outreach. 
+
